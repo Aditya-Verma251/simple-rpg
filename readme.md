@@ -3,7 +3,7 @@ this is just a collection of a "simple rpg" that i made in various languages to 
 
 ## how to run
 ### c\# -
-go into the folder called "simple-rpg" and run "dotnet run"
+go into the folder called "simple-rpg" and run ```dotnet run```
 you can use other dotnet commands too
 
 ### python -
